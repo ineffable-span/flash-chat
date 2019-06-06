@@ -25,6 +25,7 @@ class NavigateToButton extends StatelessWidget {
           child: Text(
             buttonText,
           ),
+          textColor: Colors.white,
         ),
       ),
     );
