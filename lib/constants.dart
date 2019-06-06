@@ -27,6 +27,7 @@ const kInputFieldInputDecoration = InputDecoration(
   hintText: 'Enter your email',
   hintStyle: TextStyle(
     color: Colors.grey,
+    fontWeight: FontWeight.bold
   ), 
   contentPadding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
   border: OutlineInputBorder(
